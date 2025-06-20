@@ -6,7 +6,7 @@ Bu loyiha oddiy va responsive `Image Slider` (slayder) yaratish uchun mo‘ljall
 
 Quyida loyiha qanday ko‘rinishini ko‘rishingiz mumkin:
 
-![Slider Preview](./admin/base.png)
+![Slider Preview](./admin/image.png)
 
 > Eslatma: `preview.png` faylini loyihangiz papkasiga joylashtiring. Agar boshqa nomdagi yoki manzildagi rasm ishlatilsa, yuqoridagi yo‘lni o‘zgartiring.
 
